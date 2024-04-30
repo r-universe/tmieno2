@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tmieno2/tmieno2.r-universe.dev
 	branch = HEAD
+[submodule "r.spatial.workshop.datasets"]
+	path = r.spatial.workshop.datasets
+	url = https://github.com/tmieno2/r.spatial.workshop.datasets
